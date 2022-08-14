@@ -1,4 +1,4 @@
-#Udacity's Data Analyst Nanodegree Program
+# Udacity's Data Analyst Nanodegree Program
 # Analyzing-and-Visualizing-WeRateDogs-Twitter-Data
 _2nd project for the Data Analyst Nanodegree from Udacity_
 
